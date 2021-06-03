@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance of the state of the kingdome treating upon every particular thing which the Commons in this present Parliament assembled from their first sitting for the space of these 12 months have with their diurnall endeavours and faithfull zeale to the publike good of this kingdome wrastled with all the dangers, grievances, calamities, and various distempers which overwhelmed the liberty of the subjects and safety of the realme speaking of the present state of the whole kingdome, shewing with what vigilancie they have eased this nation from illegall impositions purging it from all corrupt courts of justice and the pernicious members thereof, declaring the excellent lawes that are in preparation for removing the inordinate power and uiurpations of the bishops, for reforming the idlenesse of many of clergie and for maintaining godly and dilligent preachers throughout the whole kingdome with their unanimous care and solicitation for the poore distressed protestants in Ireland.</title>
+            <title>Grand remonstrance</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09087</idno><idno type="EEBO-CITATION">61297006</idno>
+  <idno type="VID">180563</idno>
+  <idno type="EEBO-PROQUEST">2240870007</idno>
+  
+            <idno type="STC">Wing E2223D</idno>
+            <idno type="STC">ESTC R176271</idno>
+            <idno type="OCLC">61297006</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09087)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180563)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2834:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance of the state of the kingdome treating upon every particular thing which the Commons in this present Parliament assembled from their first sitting for the space of these 12 months have with their diurnall endeavours and faithfull zeale to the publike good of this kingdome wrastled with all the dangers, grievances, calamities, and various distempers which overwhelmed the liberty of the subjects and safety of the realme speaking of the present state of the whole kingdome, shewing with what vigilancie they have eased this nation from illegall impositions purging it from all corrupt courts of justice and the pernicious members thereof, declaring the excellent lawes that are in preparation for removing the inordinate power and uiurpations of the bishops, for reforming the idlenesse of many of clergie and for maintaining godly and dilligent preachers throughout the whole kingdome with their unanimous care and solicitation for the poore distressed protestants in Ireland.</title>
+                  <title>Grand remonstrance</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Greensmith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Die Mercurii 15 Decemb. 1641."</note>
+                  <note>Imperfect: pages cropped and have faded print with slight loss of text.</note>
+                  <note>Reproduction of original in: Trinity College (Dublin, Ireland). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Sovereign (1625-1649 : Charles I).</term>
+               <term type="topical_term">Grand Remonstrance, 1641 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1625-1649 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180563:1"/>
+            <p>A REMONSTRANCE OF THE State of the Kingdome. TREATING Vpon every particular thing, which the Commons in this present Parliament Assembled, from their first Sitting for the space of these 12. Moneths have with their Diurnall endeavours, and faithfull zeale to the Publike good of this Kingdome wrastled with all the Dangers, Grie<g ref="char:EOLhyphen"/>vances, Calamities, and various distempers, which overwhel<g ref="char:EOLhyphen"/>med the liberty of the Subjects, and safety of the Realme▪ speaking of the present State of the whole Kingdome. SHEWING VVith what vigilancie they have eased this Nation from illegall Impositions, purging it from all corrupt Courts of Justice, and the pernicious mem<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rs thereof. DECLARING The excellent Lawes that are in prepara<g ref="char:EOLhyphen"/>tion, for removing the inordinate Power, and usurpations of the Bishops, for reforming the idlenesse of many of Clergie, and for maintaining godly, and diligent Preachers throughout the whole Kingdome. With their unanimous Care, and So<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>licitation for the poore distressed Protestants in <hi>Ireland.</hi>
+            </p>
+            <p>Die Mercurii 15 Decemb. 1641.</p>
+            <p>LONDON, Printed for <hi>John Greensmith</hi> 16<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="remonstrance">
+            <pb facs="tcp:180563:2"/>
+            <head>The Remonstrance.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Commons in this present Parliament assembled ha<g ref="char:EOLhyphen"/>ving with much earnestnesse and zeale to the publick good of this Kingdome, and his Majesties Honour, for the space of this 12. moneths wrastled with the great dangers, miseries, and various distempers, which had overwhelmed the liberty, peace, &amp; prosperity of this Kingdome, and almost undermined the foundation of his Royall Throne; doe yet find an abounding malignity in those parties and Factions; who doe still labour to foment Jealosies betwixt the King and this Parliament, to the deprivation of the publique peace of this Realme. For the pre<g ref="char:EOLhyphen"/>venting of those miserable effects, which such malicious endeavours may produce, We have thought good to declare.
+<list>
+                  <item>1 The Roote of these mischievous designes.</item>
+                  <item>2 The Maturity, to which they have attained before the beginning of the Parliament.</item>
+                  <item>3 The effectuall meanes, which have bin used for the extirpation of those dangerous evils, and the Progresse, which therein have bin made by his Majesties goodnesse, and the wisdome of the Parliament,</item>
+                  <item>4 The wayes of opposition, by which that Progresse have interrupted.</item>
+                  <item>5 The courses to be taken for the removing of those obstacles, &amp; for the accomplishing of our faithfull endeavours, of restoring the ancient Honour, greatnesse, and security of this Crowne and Nation. The Root of all this mischiefe wee find to be a malignant designe of subverting the fundamentall Lawes, upon which the Religion and Iustice of this Kingdome are firmely establisht.</item>
+               </list>
+            </p>
+            <p>The Actors hereof have beene.
+<list>
+                  <item>1 The Iesuited Papists who hate the lawes as the obstacles of that subversion of Religion, which they so much long for.</item>
+                  <item>2 The Bishops and the corrupt part of the Clergie, who cherish forma<g ref="char:EOLhyphen"/>lity, and superstition, as the probable supports of their Ecclesiasticall Vsurpation.</item>
+                  <item>3 Such Counsellers and Courtiers, as for private ends, have engaged themselves to further the interests of some forraigne Princes, or States to the prejudice of his Majestie, and the State at home.</item>
+               </list>
+            </p>
+            <p>The Common Principles, by which they governed their particu<g ref="char:EOLhyphen"/>lar actions were these.
+<pb facs="tcp:180563:2"/>
+               <list>
+                  <item>1 To maintain continuall differences betwixt the King and the people, upon questions of Prerogative, and liberty, that so they might gaine to themselves, and their parties, the plaees of greatest trust and power in the Kingdome.</item>
+                  <item>2 To suppresse the purity of Religion, and such persons as were best affected to it.</item>
+                  <item>3 To conjoyne the Arminian part to their owne ends, and to enlarge a difference betwixt the common Protestant, and these, whom they call Puritanes; to introduce such Ceremonies, as are fittest for accommodati<g ref="char:EOLhyphen"/>on with Popery: that so they might compose a body fit to act such Coun<g ref="char:EOLhyphen"/>cels as were most conducible to their owne ends.</item>
+                  <item>4 To disaffect the King to Parliaments by slanders and false imputa<g ref="char:EOLhyphen"/>tions, and by putting him upon other wayes of supply: which in shew were fuller of aduantage, then the ordinary course of Subsidies: though in truth they brought more losse then gaine both to the King and people, &amp; have caused the distractions under which we suffer.</item>
+               </list>
+            </p>
+            <p>Jn the beginning of his Majesties raigne, the Jesuited Councell be<g ref="char:EOLhyphen"/>gan to reviue us and flourish, having being somewhat dampt by the breach of <hi>Spaine</hi> in the last yeare of King <hi>Iames,</hi> and by his Majesties Marriage with <hi>France,</hi>
+            </p>
+            <p>The first evidence of their recovery was the dissolution of the Par<g ref="char:EOLhyphen"/>liament at <hi>Oxford.</hi> The losse of the <hi>Rochel</hi> Fleet by the helpe of our shipping set forth, and delivered over to the <hi>French,</hi> in opposition to the advice of Parliament, which was the losse of all the strength, and security of the Protestant Religion in <hi>France.</hi> The diverting of his Majesties course of Warres from the <hi>West-Indies.</hi> The precipitate breach with <hi>France</hi> by taking their Ships to a great value, without making recompence to the <hi>English.</hi> The peace with <hi>Spaine</hi> without consent of Parliament, contrary to the promise of King <hi>James</hi> to both Houses whereby the <hi>Palatinate</hi> cause was diserted.</p>
+            <p>The charging of the Kingdome with Bil<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etted Soldiers in all parts of it, and that concommitant designe of <hi>Germane</hi> horse. The dissol<g ref="char:EOLhyphen"/>ving of the Parliament in the second yeare of his Majesties raigne af<g ref="char:EOLhyphen"/>ter the Declaration of their intent to grant 5. Subsidies. The exacting of the like proportion of 5. Subsidies after the Parliament dissolv'd, by Commission of Loan, and divers Gentlemen and others impriso<g ref="char:EOLhyphen"/>ned for not yeelding to pay that Loan, whereby many of them con<g ref="char:EOLhyphen"/>tracted such sicknesse, as cost them their lives. Great summes of mony required, and raised by Privy Seales. An unjust attempt to extort great payment from the Subject by way of Excise; and a Commission issued
+<pb facs="tcp:180563:3"/> under Seale to that purpose, the petition of right; which was granted in full Parliament, blasted with an illegall declaration. Another Par<g ref="char:EOLhyphen"/>liamena disso<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved 4 <hi>Car.</hi> The privilidge of the Parliament broken, by imprissoning diverse members of the house, det<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yn<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng them close Prisoners for many mo<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es together, who were tiranically abused to the dammage of their liues.</p>
+            <p>After the breach of the Parliament in the 4 yeare of his Maiesty; juiustice oppression and violence broke in uppon us without any re<g ref="char:EOLunhyphen"/>straint or moderation. The first project wae the great summes exacted through the w<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ole kingdome for default of knightoood</p>
+            <p>Tannage and poundage have beene received withour colour or pretence of law.</p>
+            <p>Many other heauie imposition continued against law, the booke of rates lately enhansed to a high propor<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>on: and the ordinary course of Iusticie wholly obstructed unto them.</p>
+            <p>And although all this was taken upon pretence of guarding the Sea yet a new and unheard of tax of Ship-money was devised upon the same pretence, by both which there was charged upon the sub<g ref="char:EOLhyphen"/>iect neere 700000 l. some yeares.</p>
+            <p>The <hi>Monopolies</hi> of Sope, Salt, Wine, Leather, Se<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-cole, Pins, and in a manner of all things of most necessary use. The restraint of the Liberties of the Subjects in their habitation, Ttades, and other inte<g ref="char:EOLhyphen"/>rests. Their vexation and oppression by Purveyers, Clarks of the Mar<g ref="char:EOLhyphen"/>ket, and Salt Peter men. The sale of pretended <hi>N<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>cts,</hi> as buil<g ref="char:EOLhyphen"/>dings in and about <hi>London;</hi> conversion of <hi>Arable</hi> into pasture conti<g ref="char:EOLhyphen"/>nuance of pasture under the name of depopu<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tion. The intolerable seizing of the money, and Bullion in the Mint, and the whole King<g ref="char:EOLhyphen"/>dome like to be rob'd at once, in that abhominable Project of Brasse<g ref="char:EOLhyphen"/>money.</p>
+            <p>The Court of Star-ch<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er hath abounded inextravigant censures for the maintenance, and improvement of <hi>Monopolies,</hi> and other un<g ref="char:EOLhyphen"/>lawfull taxes w<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>reby his M<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jest<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es Sub<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ects have bin much oppressed by grievo<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s fines, imprisonment<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, S<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tizings, mutilations, whip<g ref="char:EOLhyphen"/>pings, Pillories, Gags, con<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nements, Banishments, ofter so rig<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d a a manner, as hath never bin heard of, Iudges have bin put out of the places, for refusing to doe against their Oathes and consciences, Law<g ref="char:EOLhyphen"/>yers have been checkt, for being f<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>full to their Clients. So<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>citors ged Atturneys have been t<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed and some punished for follow<g ref="char:EOLhyphen"/>ing lawfu<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l suites. New Oaths have beene forced upon the Subject a<g ref="char:EOLhyphen"/>gainst
+<pb facs="tcp:180563:3"/> Law: The new Iudicatories erected without Law. The C<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cery, Exchequer chamber, and Court of Wards, and other <hi>English</hi> Courts have been grievous in exceeding their jurisdiction, Titles of Honour, Judiciall places, Serjeant-ships at Law, and other Offices have been sold for great summes of money; whereby the Common Justice of the Kingdome have been much endangered by giving oc<g ref="char:EOLhyphen"/>casion to Bribery, Extortion and Partialtity. Commissiens have been granted for examining the excesse of Fees, and when great exactions have been discovered Compositions have been made with Delin<g ref="char:EOLhyphen"/>quents for their security in offending in time to come.</p>
+            <p>The usuall course of pricking Sheriffes not observed, but many times Sheriffes made in an extraordinary way, sometimes as a pu<g ref="char:EOLhyphen"/>nishment and charge vnto them: sometimes such were pricked out, as would be instrument to execute whatsoever they would have to be done. The Bishops and the rest of the Clergy, did tryumph in suspensions, excommunications, depravations, and degradations of di<g ref="char:EOLhyphen"/>vers painefull learned and pious Ministers, The High Commission grew to such exce<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e of severity, as was not much lesse then the Ro<g ref="char:EOLhyphen"/>mish Inquisition, which cousisted of these three parts.
+<list>
+                  <item>1. The Government must be set free from all restraint of Lawes con<g ref="char:EOLhyphen"/>cerning our Persons and States.</item>
+                  <item>3 There must be a conjunction betwixt Papists and Protestants in Doctrine, Discipline, and Ceremonies: onely it must not yet he cal<g ref="char:EOLhyphen"/>led Popery.</item>
+                  <item>3 The Puritanes under which name they include all those, that de<g ref="char:EOLhyphen"/>sire to preserve the Lawes and Liberties of the Kingdome, must bee rooted out: For the effecting of this new Canons, and a new Liturgie was made to reduce Scotland to th<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>se Popish Superstitions: and an Army was raised to force them to it: but the Scots likewise raised an Army in their nwne defeace, And when both Armies were com<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> together ready for a bloody encounter, his Majesties most gracious dis<g ref="char:EOLhyphen"/>position, and the Councell of the English Nobility, and dutifull submis<g ref="char:EOLhyphen"/>sion of the Scots did so farre prevaile against the evill Councell of others, that a Pacification was made, and his Majesty returned with Peace and much Honour to London.</item>
+               </list>
+            </p>
+            <p>we have reconciled the <hi>Scots</hi> and made an exact pacification in both kingdomes. yea the disicuities this thing alone seemed in<g ref="char:EOLhyphen"/>superable which by the providence we haue ouercome</p>
+            <pb facs="tcp:180563:4"/>
+            <gap reason="duplicate" resp="#oxf" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:180563:4"/>
+            <gap reason="duplicate" resp="#oxf" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:180563:5"/>
+            <p>The contrarieties in compatible, which yet a in great measure wee have reconciled. 6. Subsidies have been granted and a Bill of <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oll-mo<g ref="char:EOLhyphen"/>ney which if it be duly levied, may equall 6. Subsidies more, in all 600000 l. Besides we have cōtracted a debt to the <hi>Scots</hi> of 220000 l. and yet God hath so blessed the endeavours of this Parliament that the Kingdome is a great gainer by all these charges. The Ship-money is abolished; which cost the Kingdome above 200000 l. a yeare. The Coat and Conduct money, and other military charges are taken a<g ref="char:EOLhyphen"/>way; which in many Countries amounted to no lesse then the Ship<g ref="char:EOLhyphen"/>money, The Monopolies are supprest; whereof some few did preju<g ref="char:EOLhyphen"/>dice the Subjects above a Milsion yearly. The Sope 10000 l. The Wine 30000 l. The Leather exceeded both, the Salt could not be lesse then that, besides the inferiour Monopolies, which if they could be exactly computed, would make up an infinite Summe But the living Counsellours and Actors of these mischiefes have beene so quel'd by the lustice done to the Earle of <hi>Strafford,</hi> the flight of the Lord <hi>Finch</hi> and Secretary <hi>VVindebanke,</hi> the accusation and im<g ref="char:EOLhyphen"/>prisonment of the Archbishop of <hi>Canterbury,</hi> Judge <hi>Bartler,</hi> and the impeachment of divers other Bishops, and Judges, that it is like not onely to be an ease to the present times, but a preservation to the future: The discontinuance of Parliaments is prevented by the Bill for a Triannuall Parliament, and the abrupt dissolution of this Par<g ref="char:EOLhyphen"/>liament by another Bill; by which it is proved it shall not be dissol<g ref="char:EOLhyphen"/>ved, or adjourned without the consent of both Houses. The immode<g ref="char:EOLhyphen"/>rate power of the Councell Table &amp; the excessive abuse of that pow<g ref="char:EOLhyphen"/>er is so ordered, that none hereafter shall have ever cause to com<g ref="char:EOLhyphen"/>plaine thereof. The Canons and the power of Canon-making are bla<g ref="char:EOLhyphen"/>sted by the Vote of both Houses. The exorbitant power of Bishops and their Courts are much abated by some Provisions in the Bill against the High Commission Court.</p>
+            <p>The Authors of many innovations in Doctrine, the Ministers that have beene scandalous in their li<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es are either inwardly convicted by the sight of their owne folly, or outwardly restrained by feare of punishment, The Forrests are by a good law reduced to their right bounds; the inchroachments and oppressions of the <hi>Stannery</hi> Court, the extortions of the Clarke of the market: and the vexations proceedings for great fines are by other beneficiall lawes reformd, &amp; prevented Many excellent lawes are in preparation for removing the inordiuate power and vsurpation of Bishops, for reforming the idienes of many of the Cleargie; for easing the people of many vn<g ref="char:EOLhyphen"/>necessary
+<pb facs="tcp:180563:5"/> cerimonies in Religion, for removing vnworthy and un<g ref="char:EOLhyphen"/>profitable Ministers, and for mayntaining godly and dilligent Prea<g ref="char:EOLhyphen"/>chers throughout the Kingdome.</p>
+            <p>The establishing and ordering the Kings revenue, that so the abuse of officers, and superfluity of expences may be cut off, and the nece<g ref="char:EOLhyphen"/>ssary disbursements for his Maiestys honour, the defence and govern<g ref="char:EOLhyphen"/>ment of the Kingdome, may be more certainely provided for, the re<g ref="char:EOLhyphen"/>gulating Courts of justice, the setling of some good courses for the preventing the exportion of gold and silver and the inequallity of exchanging betwixt us and other Nations.</p>
+            <p>And for both houses of Parliament we may with truth and modestie say thus much, that we have ever bin carefull to confirme both the f<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> dignity for the Crowne and prosperitie of the Realme,</p>
+            <p>The malignant party whom We have formerly described to be the actors and promoters of all our miserie, doe indeavor to worke in his Maiesty ill impressions and opinions of our proceedings, as if we had altogether done our owne worke and not his, they have had soe great a partie of Bishops and Popish Lords in the house of Peeres as hath caused much opposition and delay to the prosecution of delin<g ref="char:EOLhyphen"/>quents, hindred the procedings of diverse good bills passed in the Commons hovse, concerning the reformation of sundry great abu<g ref="char:EOLhyphen"/>ses and corruptions both in the Church and state, they haue labored to corrupt some of the Commons house to draw them into conspi<g ref="char:EOLhyphen"/>racies and combinations against the libertie of parliament, thus they haue beene continually practising to disturbe the pace, and plotting the destruction even of all the Kings dominions, which our vigilan<g ref="char:EOLhyphen"/>cie discovered and defeated before they were ripe for execution in <hi>England and Scotland</hi> only in <hi>Ireland</hi> which was farther, off they they had time and opportunity to mould aod prepare their worke that they had brought it to that perfection, that they had possest themselves of that whole kingdome, totally subverted the govern<g ref="char:EOLhyphen"/>ment, rooted out religion, and destroied all the Protestants therein, if by Gods providence their enterprise upon the Citie and Castle of <hi>Dublin</hi> had not beene detected, yet they have in other parts of that kingdome broken out into Rebelion, but what supply or ayd can we the Commons rayse with out the cnniunction of the house of Lords, and what conjunction can we expect there, when the recu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Lords are so prevalrnt that they are able to crosse our best indea<g ref="char:EOLhyphen"/>ors for reformation, and by that meanes give aduant age to this ma<g ref="char:EOLhyphen"/>gnant partie to traduce our proceedings, they infuse into the peo<g ref="char:EOLhyphen"/>ple
+<pb facs="tcp:180563:6"/> that we meane to abolish all Church Government, and leave e<g ref="char:EOLhyphen"/>very man to his owne fancy for th<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> service and worship of God. But we doe here declare, that it is farre from our purpose or desire to let loose the golden ruines of Discipline, and government in Church to leave private persons, or particular Congregations to take up what forme of Divine Service they please. For we hold it requisite that there should be throughout the whole Realme a conformity to that Order which the Lawes enjoyne according to the word of God.</p>
+            <p>And we intend likewise to reforme and purge the fountaines of learning the two Vniversities, that the streames flowing from thence may be cleare, and purge, and an Honour and comfort to the whole Land. We are also very sollicitous, that all good courses may be ta<g ref="char:EOLhyphen"/>ken to vnity, the two Kingdomes of <hi>England</hi> and <hi>Scotland</hi> to be mu<g ref="char:EOLhyphen"/>tually ayding and assisting of one another for the common good of the Island, against the common enemies of both: and to labour by all Offices of friendship to vnite the forraigne Churches with us in the same cause, and to <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ke their liberty, safety, and prosperity, as bound thereunto both by charity to them, and by wisdome for our owne good. For by this meanes our owne strength shall be increased, and by <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to the same common ends; we shall be e<g ref="char:EOLhyphen"/>nabled to procure the good of the whole body of the Protestant Pro<g ref="char:EOLhyphen"/>fession. If these things may be observed, we doubt not but God will crowne this <hi>Parliamen<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> with <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ch successe, as shall be the begin<g ref="char:EOLhyphen"/>ning and foundation of mo<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Honour and happinesse to his Majesty, than ever yet was enjoyed by any of his Royall Predecessours.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:180563:6"/>
+            <pb facs="tcp:180563:7"/>
+            <gap reason="duplicate" resp="#oxf" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:180563:7"/>
+            <gap reason="duplicate" resp="#oxf" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
